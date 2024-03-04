@@ -1,0 +1,15 @@
+[
+  {
+    "origin" : "Origen",
+    "typeOfWine" : "Desconocido",
+    "id" : "485F344B-23E7-464A-89D3-A560A182B8B2",
+    "price" : 5,
+    "isFavorite" : true,
+    "year" : 2000,
+    "description" : "Jalskdjfalskjdflaj",
+    "name" : "Prueba favorito",
+    "rating" : 0,
+    "buyingReason" : "Por probar",
+    "repeating" : false
+  }
+]
